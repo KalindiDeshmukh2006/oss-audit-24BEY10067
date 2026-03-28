@@ -8,7 +8,8 @@ Chosen Software: Python
 
 ---
 
-🧠 Project Overview
+🧠 Project Overview<img
+
 
 This project is of Python as an open-source software. It explores licensing model, implications and the open-source ecosystem.
 
@@ -34,7 +35,8 @@ Displays basic system information:
 - Date and Linux distribution
 
 Concepts Used: variables, command substitution, echo
-Screenshot 2026-03-28 115115.png
+
+<img width="2226" height="1315" alt="Screenshot 2026-03-28 115115" src="https://github.com/user-attachments/assets/4f962aa1-9d87-4e95-8fb5-13b12e374c16" />
 
 ---
 
@@ -43,6 +45,8 @@ Screenshot 2026-03-28 115115.png
 Checks if Python is installed and displays package details.
 
 Concepts Used: if-else, dpkg, grep, case statement
+<img width="2238" height="1311" alt="Screenshot 2026-03-28 115302" src="https://github.com/user-attachments/assets/955a5493-5518-4f91-88c3-c540db5d06fa" />
+<img width="2239" height="1309" alt="Screenshot 2026-03-28 115326" src="https://github.com/user-attachments/assets/65702f14-06c3-4cce-be66-02308922a04d" />
 
 ---
 
@@ -55,6 +59,7 @@ Analyzes important system directories and displays:
 - Disk usage
 
 Concepts Used: for loop, awk, du, ls
+<img width="2239" height="966" alt="Screenshot 2026-03-28 115632" src="https://github.com/user-attachments/assets/a85a7b8b-033d-427e-bbb5-ddf94f1eae75" />
 
 ---
 
@@ -66,6 +71,7 @@ Reads a log file and:
 - Displays last matching lines
 
 Concepts Used: while loop, if condition, grep, arguments
+<img width="2239" height="518" alt="Screenshot 2026-03-28 115823" src="https://github.com/user-attachments/assets/048db2ec-c0ef-4192-b222-0a02d50a1f63" />
 
 ---
 
@@ -74,6 +80,7 @@ Concepts Used: while loop, if condition, grep, arguments
 Generates a personalized statement based on user input.
 
 Concepts Used: user input (read), string handling, file output
+<img width="2236" height="309" alt="Screenshot 2026-03-28 120007" src="https://github.com/user-attachments/assets/100ae9f7-ddef-4faf-9163-3c8d12374b60" />
 
 ---
 
