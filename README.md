@@ -82,20 +82,27 @@ Step 1: Open Linux Terminal (WSL / Ubuntu)
 
 Step 2: Navigate to directory
 
+```bash
 cd path/to/your/scripts
+```
 
 Step 3: Give permission
 
+```bash
+# To run the identity report, use:
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+./system_identity.sh
+```
 
 Step 4: Run scripts
 
+```bash
 ./script1.sh
 ./script2.sh
 ./script3.sh
 ./script4.sh /var/log/syslog error
 ./script5.sh
-
+```
 ---
 
 📦 Dependencies
@@ -114,6 +121,7 @@ This project helped in understanding the concept of open source and the importan
 
 🔗 Repository Structure
 
+```bash
 oss-audit-24BEY10067/
 │── script1.sh
 │── script2.sh
@@ -121,3 +129,4 @@ oss-audit-24BEY10067/
 │── script4.sh
 │── script5.sh
 │── README.md
+```
