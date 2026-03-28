@@ -34,6 +34,7 @@ Displays basic system information:
 - Date and Linux distribution
 
 Concepts Used: variables, command substitution, echo
+creenshot 2026-03-28 115115.png
 
 ---
 
