@@ -82,11 +82,11 @@ Step 1: Open Linux Terminal (WSL / Ubuntu)
 
 Step 2: Navigate to directory
 
-  cd path/to/your/scripts
+##cd path/to/your/scripts
 
 Step 3: Give permission
 
-  chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+##chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 Step 4: Run scripts
 
